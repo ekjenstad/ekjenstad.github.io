@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: inputContent
 title: You're up and running!
 ---
 
