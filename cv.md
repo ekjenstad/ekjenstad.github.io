@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
+title:
 permalink: /cv/
 ---
 
-You can download my CV here.
+You can download my CV here(/files/kjenstad_cv.pdf "Download CV").
